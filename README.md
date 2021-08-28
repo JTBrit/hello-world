@@ -1,2 +1,3 @@
 # hello-world
-first repository
+
+Credit Specialist looking to create the ultimate analysis package
